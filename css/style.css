@@ -1,4 +1,10 @@
-html, body {
-  height: 100%;
-  width: 100%;
+/* Created by: Jaejun Lee
+* Created on: Apr 2022
+* This file contains the CSS for index.html
+*/
+
+main {
+  color: black;
+  font-family: Helvetica, Arial, sans-serif;
+  padding-top: 5pt;
 }
