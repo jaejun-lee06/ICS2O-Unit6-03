@@ -2,6 +2,8 @@
 // Created on: June 2022
 // This file contains the JS functions for index.html
 
+'use strict'
+
 /**
  * Check servie worker.
  */
